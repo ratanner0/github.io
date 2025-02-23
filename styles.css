@@ -58,10 +58,10 @@ header img{
 .about {
     display: inline-block;
     position: absolute;
-    margin-top: 1%;
+    /*margin-top: 1%;*/
     top: 20%;
     right: 5%;
-    width: 40%;
+    max-width: 30%;
     font-size: larger;
     background-color: rgba(136, 240, 235, 0.7);
     border: 2px solid #E6EFF3;
