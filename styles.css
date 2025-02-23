@@ -141,6 +141,7 @@ img {
 
 /* Slideshow container */
 .slideshow-container {
+  display: inline-block;
   max-width: 40%;
   position: relative;
   margin-top: 1%;
