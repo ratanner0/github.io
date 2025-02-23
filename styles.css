@@ -31,7 +31,9 @@ header img{
 }
 
 .topnav {
-    padding-top: 10px;
+    position: fixed;
+    padding-left: 25%;
+    padding-top: 1rem;
     overflow: hidden;
     text-align: center;
 }
@@ -56,8 +58,9 @@ header img{
 .about {
     display: inline-block;
     position: absolute;
+    margin-top: 1%;
     top: 20%;
-    right: 50px;
+    right: 5%;
     width: 40%;
     font-size: larger;
     background-color: rgba(136, 240, 235, 0.7);
@@ -138,10 +141,10 @@ img {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 40%;
   position: relative;
-  margin-top: 30px;
-  margin-left: 25px;;
+  margin-top: 1%;
+  margin-left: 25px;
 }
 
 /* Next & previous buttons */
