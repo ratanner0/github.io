@@ -69,6 +69,7 @@ header img{
     text-align: center;
 }
 .additionalNav {
+    display: inline-block;
     margin-left: 8%;
     
 }
